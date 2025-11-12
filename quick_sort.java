@@ -1,3 +1,10 @@
+
+// Algorithm: Bubble Sort
+// Best Case: O(n log n)
+// Worst Case: O(n^2)
+// Space Complexity: O(log n)
+// Stable: Yes
+
 import java.util.*;
 public class quick_sort {
     public static void quickSort(int[] arr, int low, int high) {

@@ -1,3 +1,10 @@
+
+// Algorithm: Bubble Sort
+// Best Case: O(n^2)
+// Worst Case: O(n^2)
+// Space Complexity: O(1)
+// Stable: Yes
+
 import java.util.*;
 public class selection_sort {
     public static void selectionSort(int[] arr) {

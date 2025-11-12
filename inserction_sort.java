@@ -1,3 +1,10 @@
+
+// Algorithm: Bubble Sort
+// Best Case: O(n)
+// Worst Case: O(n^2)
+// Space Complexity: O(1)
+// Stable: Yes
+
 import java.util.*;
 public class inserction_sort{
 
