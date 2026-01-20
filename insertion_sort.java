@@ -1,12 +1,12 @@
 
-// Algorithm: Bubble Sort
+// Algorithm: Insertion Sort
 // Best Case: O(n)
 // Worst Case: O(n^2)
 // Space Complexity: O(1)
 // Stable: Yes
 
 import java.util.*;
-public class inserction_sort{
+public class insertion_sort{
 
     public static void insertionSort(int[] arr) {
         int n = arr.length;

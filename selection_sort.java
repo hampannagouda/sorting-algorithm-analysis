@@ -1,9 +1,9 @@
 
-// Algorithm: Bubble Sort
+// Algorithm: Selection Sort
 // Best Case: O(n^2)
 // Worst Case: O(n^2)
 // Space Complexity: O(1)
-// Stable: Yes
+// Stable: No
 
 import java.util.*;
 public class selection_sort {
