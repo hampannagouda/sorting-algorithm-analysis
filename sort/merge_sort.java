@@ -1,3 +1,4 @@
+package sort;
 
 // Algorithm: Merge Sort
 // Best Case: O(n log n)

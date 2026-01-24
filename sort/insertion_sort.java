@@ -1,3 +1,4 @@
+package sort;
 
 // Algorithm: Insertion Sort
 // Best Case: O(n)

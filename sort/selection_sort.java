@@ -1,3 +1,4 @@
+package sort;
 
 // Algorithm: Selection Sort
 // Best Case: O(n^2)

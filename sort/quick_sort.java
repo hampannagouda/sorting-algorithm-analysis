@@ -1,3 +1,4 @@
+package sort;
 
 // Algorithm: Quick Sort
 // Best Case: O(n log n)
